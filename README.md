@@ -17,3 +17,4 @@ def __init__(self, x=0, y=0, dest=None):
 
         # start moving
         self.move() 
+wtf
